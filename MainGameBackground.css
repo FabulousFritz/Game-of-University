@@ -1,0 +1,8 @@
+.root{
+	
+    -fx-background-image: url("board.png");
+    -fx-background-repeat: repeat repeat;   
+    -fx-background-size: 1200 800;
+    -fx-background-position: center center;
+    -fx-cursor: hand;
+}

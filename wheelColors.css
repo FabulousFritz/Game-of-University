@@ -1,0 +1,13 @@
+/*Setting colors for pie chart */
+.data0.chart-pie { -fx-pie-color: #F9665E }
+.data1.chart-pie { -fx-pie-color: #DF9881; }
+.data2.chart-pie { -fx-pie-color: #FCEEC5; }
+.data3.chart-pie { -fx-pie-color: #AFDAC1; }
+.data4.chart-pie { -fx-pie-color: #7BB3AD; }
+.data5.chart-pie { -fx-pie-color: #C2D6E1; }
+.data6.chart-pie { -fx-pie-color: #62717E; }
+.data7.chart-pie { -fx-pie-color: #F5E1FD; }
+.data8.chart-pie { -fx-pie-color: #B399D4; }
+.data9.chart-pie { -fx-pie-color: #FFB0B4; }
+
+.chart-pie-label { -fx-font-size: 10pt ; }

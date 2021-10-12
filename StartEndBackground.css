@@ -1,0 +1,11 @@
+/*this sets the background image for the Start screen, About page, and Win Screen.
+it also changes the cursor to a 'hand' icon*/
+
+.root{
+	-fx-background-image: url(background.png);
+   
+	-fx-cursor: hand;
+	-fx-background-size: 650 450;
+    -fx-background-position: center;
+    
+	}
